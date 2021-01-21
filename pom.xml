@@ -16,7 +16,7 @@
         <slf4j.version>1.7.25</slf4j.version>
         <jetty.version>9.4.20.v20190813</jetty.version>
         <h2.version>1.4.199</h2.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
     </properties>
     <dependencies>
         <!-- testing -->
